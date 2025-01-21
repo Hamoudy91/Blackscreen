@@ -3,8 +3,8 @@ import streamlit as st
 
 # Load the dataset
 @st.cache
-def load_data(file_path):
-    data = pd.read_excel(file_path)
+def load_data(Black Screen Tool - 2024-10-23.xlsx):
+    data = pd.read_excel(Black Screen Tool - 2024-10-23.xlsx)
     return data
 
 # Function to determine action
